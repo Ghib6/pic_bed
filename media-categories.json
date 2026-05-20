@@ -21,11 +21,6 @@
       "dir": "img/backgrounds"
     },
     {
-      "id": "experiments",
-      "name": "实验作业",
-      "dir": "img/experiments"
-    },
-    {
       "id": "temp",
       "name": "临时图片",
       "dir": "img/temp"

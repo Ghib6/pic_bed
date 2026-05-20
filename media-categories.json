@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": "posts",
+      "name": "文章配图",
+      "dir": "img/posts"
+    },
+    {
+      "id": "site",
+      "name": "站点资源",
+      "dir": "img/site"
+    },
+    {
+      "id": "avatars",
+      "name": "头像",
+      "dir": "img/avatars"
+    },
+    {
+      "id": "backgrounds",
+      "name": "背景图",
+      "dir": "img/backgrounds"
+    },
+    {
+      "id": "experiments",
+      "name": "实验作业",
+      "dir": "img/experiments"
+    },
+    {
+      "id": "temp",
+      "name": "临时图片",
+      "dir": "img/temp"
+    },
+    {
+      "id": "experiments20-5-26",
+      "name": "作业26-5-20",
+      "dir": "img/experiments20-5-26"
+    }
+  ]
+}
